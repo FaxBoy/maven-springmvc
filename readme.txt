@@ -1,0 +1,1 @@
+Springmvc+mybatis+maven module to achieve a simple project
